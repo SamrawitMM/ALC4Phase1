@@ -20,9 +20,9 @@
         </activity>
         <activity
             android:name=".MyProfile"
-            android:label="My Profile" />
+            android:label="      My Profile     " />
         <activity android:name=".About"
-            android:label="About ALC"
+            android:label="      About ALC      "
             ></activity>
     </application>
 

@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">ALCC40Phase1</string>
-    <string name="user_name">Samrawit Mulugeta</string>
-    <string name="track">Android</string>
-    <string name="country">Ethiopia</string>
-    <string name="email">samrawitmulu88@gmail.com</string>
-    <string name="phoneNumber">+251923242554</string>
-    <string name="slack_username">"Samrawit Mulugeta Mewa"</string>
+    <string name="user_name">" Samrawit Mulugeta "</string>
+    <string name="track">" Android "</string>
+    <string name="country">" Ethiopia "</string>
+    <string name="email">" samrawitmulu88@gmail.com "</string>
+    <string name="phoneNumber">" +251923242554 "</string>
+    <string name="slack_username"> " Samrawit\n Mulugeta\n Mewa "</string>
 </resources>

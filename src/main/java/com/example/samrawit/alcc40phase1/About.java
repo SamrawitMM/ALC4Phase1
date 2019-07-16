@@ -7,9 +7,6 @@ import android.webkit.SslErrorHandler;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
-/**
- * Created by samrawit on 7/15/2019.
- */
 
 public class About extends AppCompatActivity {
 
